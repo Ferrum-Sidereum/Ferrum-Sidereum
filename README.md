@@ -2,7 +2,7 @@
 
 # Ferrum-Sidereum
 
-**AI AI AI AI AI AI AI**
+**AI for ur I**
 
 </div>
 
@@ -32,7 +32,7 @@ I turn new AI tooling into **runnable, inspectable workflows** — with a prefer
 </td>
 <td width="38%" align="center" valign="top">
 
-<img src="assets/rei-evangelion-collage.jpg" width="290" alt="Blue Evangelion collage with Rei Ayanami" />
+<img src="assets/entrity copy.jpg" />
 
 <sub><i>stillness is a feature.</i></sub>
 
