@@ -34,7 +34,7 @@ I turn new AI tooling into **runnable, inspectable workflows** — with a prefer
 
 <img src="assets/entrity copy.jpg" />
 
-<sub><i>stillness is a feature.</i></sub>
+<sub><i>"entrity" by Radomir Karimov</i></sub>
 
 </td>
 </tr>
