@@ -1,16 +1,56 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Ferrum-Sidereum/Ferrum-Sidereum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Ferrum-Sidereum
 
-Here are some ideas to get you started:
+**AI AI AI AI AI AI AI**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+<table>
+<tr>
+<td width="62%" valign="top">
+
+## System status
+
+```text
+ROLE      AI engineering learner / builder
+MODE      Python-first · public research · shipping small proofs
+CURRENT   agent workflows
+LANGS     EN, FR, RU
+```
+
+I turn new AI tooling into **runnable, inspectable workflows** — with a preference for field evidence over hype.
+
+### What I’m building
+
+- **Agent workflows** — human-controlled systems with visible traces and approval gates.
+
+### Stack, currently
+
+`Python` · `TypeScript` · `Git` · `Hermes` · `Pi`
+
+</td>
+<td width="38%" align="center" valign="top">
+
+<img src="assets/rei-evangelion-collage.jpg" width="290" alt="Blue Evangelion collage with Rei Ayanami" />
+
+<sub><i>stillness is a feature.</i></sub>
+
+</td>
+</tr>
+</table>
+
+## Selected work
+
+| Project | Why it exists |
+| --- | --- |
+
+## Principles
+
+> Don't forget who you are
+
+<div align="center">
+
+[**Website**](https://) · [**X**](https://x.com/) · [**GitHub**](https://github.com/Ferrum-Sidereum)
+
+</div>
