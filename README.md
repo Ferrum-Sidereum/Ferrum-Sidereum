@@ -50,14 +50,17 @@ with explicit approval gates and actions you can inspect.
 
 An open-source security tool that resolves secret references at the request boundary, rather than exposing credentials directly to the agent.
 
+<p align="center">
+  <img
+    src="assets/sentinel-dashboard.png"
+    alt="Sentinel desktop app — protection rules and audit events"
+    width="850"
+  />
+</p>
+
 - Encrypted vault with OS keychain integration or Argon2id-based key derivation.
 - Egress proxy for secret injection and response redaction.
 - MCP gateway with payload scrubbing and approval controls.
-- Tamper-evident audit log, live policy reload, CLI, and Windows desktop app.
-- Cross-platform CI, automated releases, and Homebrew/Scoop packages.
-
-`Go` · `SQLite` · `MCP` · `Wails` · `React` · `TypeScript`
-
 ### mist
 **One endpoint for multiple LLM clients.**
 
