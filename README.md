@@ -30,8 +30,7 @@ with explicit approval gates and actions you can inspect.
 ### Currently building
 
 - **Sentinel** — secret management and access controls for AI agents.
-- **mist** — an LLM proxy with API key rotation and a web dashboard.
-- **Agent workflows** — experiments with tool use, approvals, and execution traces.
+- **Mist** — an LLM proxy with API key rotation and a web dashboard.
 
 </td>
 <td width="38%" align="center" valign="top">
@@ -88,7 +87,6 @@ A personal LLM proxy project with an OpenAI-compatible API and streaming respons
 - **Keep secrets out of model context.** Resolve credentials where they are needed.
 - **Make behavior inspectable.** Prefer visible traces over hidden automation.
 - **Test the boundaries.** Failure paths and access controls are part of the feature.
-- **Prefer evidence over hype.** Build things others can run and inspect.
 
 ---
 
