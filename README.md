@@ -2,7 +2,7 @@
 
 # Ferrum-Sidereum
 
-**AI for ur I**
+**AI for your I**
 
 Building tools that connect AI agents to real systems — with explicit permissions, protected secrets, and inspectable traces.
 
@@ -17,7 +17,7 @@ Building tools that connect AI agents to real systems — with explicit permissi
 ```text
 ROLE      AI / backend developer
 FOCUS     LLM infrastructure · agent security
-BUILDING  Sentinel · mist
+BUILDING  Sentinel · Mist
 APPROACH  Build → inspect → test → ship
 ```
 
